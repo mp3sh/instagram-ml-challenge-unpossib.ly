@@ -13,3 +13,9 @@ Primary Objective: Quickly highlight the most popular photo out of a series.
 User Benefit: Users can post the images that others will enjoy the most.
 
 Constraints: The prediction must take place within 10 seconds.
+
+My solution:
+1. Extract features from API
+2. Extract features from images
+3. Clustering images features
+4. Fit regression model
